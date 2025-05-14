@@ -1,3 +1,12 @@
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Visualizations](#visualizations)
+- [Files and Structure](#files-and-structure)
+- [How to Run](#how-to-run)
+- [Dependencies](#dependencies)
+- [Author](#author)
+
+
 # Fuel Price Forecasting and Optimisation Project
 
 This repository contains a comprehensive data analytics project developed for the **DAT7304 – Time Series Analysis and Forecasting** module in the MSc Business Analytics program. The project addresses real-world forecasting and optimisation problems in the UK fuel retail industry using time series models and linear programming.
