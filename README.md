@@ -37,6 +37,23 @@ This section answers five business questions using univariate and multivariate f
 - RMSE (Root Mean Squared Error)  
 - MAPE (Mean Absolute Percentage Error)
 
+## Visualizations
+
+### 1. Average Weekly Fuel Prices
+![Fuel Price Trend](figures/fuel_price_trend.png)
+
+### 2. Brent Crude Oil Prices
+![Brent Crude](figures/brent_crude.png)
+
+### 3. Quantity per Transaction
+![Quantity per Transaction](figures/quantity_transaction.png)
+
+### 4. Seasonal Decomposition
+![Seasonal Decomposition](figures/seasonal_decomposition.png)
+
+### 5. ACF & PACF
+![ACF PACF](figures/acf_pacf.png)
+
 **Conclusion:**  
 SARIMAX and VAR models outperformed univariate models by integrating external variables like Brent prices and fuel demand, leading to more accurate and actionable forecasts.
 
