@@ -9,6 +9,11 @@
 
 # Fuel Price Forecasting and Optimisation Project
 
+![Repo Size](https://img.shields.io/github/repo-size/ruthchime/Fuel-Price-Forecasting--and--Optimisation)
+![Last Commit](https://img.shields.io/github/last-commit/ruthchime/Fuel-Price-Forecasting--and--Optimisation)
+
+
+
 This repository contains a comprehensive data analytics project developed for the **DAT7304 – Time Series Analysis and Forecasting** module in the MSc Business Analytics program. The project addresses real-world forecasting and optimisation problems in the UK fuel retail industry using time series models and linear programming.
 
 ## Project Overview
